@@ -1,0 +1,11 @@
+D:\asp\DemoSagaSolution\DemoSaga.Models\bin\Debug\net8.0\DemoSaga.Models.deps.json
+D:\asp\DemoSagaSolution\DemoSaga.Models\bin\Debug\net8.0\DemoSaga.Models.dll
+D:\asp\DemoSagaSolution\DemoSaga.Models\bin\Debug\net8.0\DemoSaga.Models.pdb
+D:\asp\DemoSagaSolution\DemoSaga.Models\obj\Debug\net8.0\DemoSaga.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp\DemoSagaSolution\DemoSaga.Models\obj\Debug\net8.0\DemoSaga.Models.AssemblyInfoInputs.cache
+D:\asp\DemoSagaSolution\DemoSaga.Models\obj\Debug\net8.0\DemoSaga.Models.AssemblyInfo.cs
+D:\asp\DemoSagaSolution\DemoSaga.Models\obj\Debug\net8.0\DemoSaga.Models.csproj.CoreCompileInputs.cache
+D:\asp\DemoSagaSolution\DemoSaga.Models\obj\Debug\net8.0\DemoSaga.Models.dll
+D:\asp\DemoSagaSolution\DemoSaga.Models\obj\Debug\net8.0\refint\DemoSaga.Models.dll
+D:\asp\DemoSagaSolution\DemoSaga.Models\obj\Debug\net8.0\DemoSaga.Models.pdb
+D:\asp\DemoSagaSolution\DemoSaga.Models\obj\Debug\net8.0\ref\DemoSaga.Models.dll

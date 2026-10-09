@@ -1,0 +1,714 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\asp\\DemoSagaSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25A8928F-DFD7-1A15-E015-910164C69461}|DemoSaga.OrderApi\\DemoSaga.OrderService.csproj|d:\\asp\\demosagasolution\\demosaga.orderapi\\kafka\\orderconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A8928F-DFD7-1A15-E015-910164C69461}|DemoSaga.OrderApi\\DemoSaga.OrderService.csproj|solutionrelative:demosaga.orderapi\\kafka\\orderconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A8928F-DFD7-1A15-E015-910164C69461}|DemoSaga.OrderApi\\DemoSaga.OrderService.csproj|d:\\asp\\demosagasolution\\demosaga.orderapi\\kafka\\orderoutboxpulisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A8928F-DFD7-1A15-E015-910164C69461}|DemoSaga.OrderApi\\DemoSaga.OrderService.csproj|solutionrelative:demosaga.orderapi\\kafka\\orderoutboxpulisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B867E-C0AD-152C-09AE-5FA06F43D5AC}|DemoSaga.ProductApi\\DemoSaga.ProductService.csproj|d:\\asp\\demosagasolution\\demosaga.productapi\\kafka\\productoutboxpulisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B867E-C0AD-152C-09AE-5FA06F43D5AC}|DemoSaga.ProductApi\\DemoSaga.ProductService.csproj|solutionrelative:demosaga.productapi\\kafka\\productoutboxpulisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B867E-C0AD-152C-09AE-5FA06F43D5AC}|DemoSaga.ProductApi\\DemoSaga.ProductService.csproj|d:\\asp\\demosagasolution\\demosaga.productapi\\entities\\productoutboxmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B867E-C0AD-152C-09AE-5FA06F43D5AC}|DemoSaga.ProductApi\\DemoSaga.ProductService.csproj|solutionrelative:demosaga.productapi\\entities\\productoutboxmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A8928F-DFD7-1A15-E015-910164C69461}|DemoSaga.OrderApi\\DemoSaga.OrderService.csproj|d:\\asp\\demosagasolution\\demosaga.orderapi\\migrations\\20261009173123_addstatuscolumforordertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A8928F-DFD7-1A15-E015-910164C69461}|DemoSaga.OrderApi\\DemoSaga.OrderService.csproj|solutionrelative:demosaga.orderapi\\migrations\\20261009173123_addstatuscolumforordertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A8928F-DFD7-1A15-E015-910164C69461}|DemoSaga.OrderApi\\DemoSaga.OrderService.csproj|d:\\asp\\demosagasolution\\demosaga.orderapi\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A8928F-DFD7-1A15-E015-910164C69461}|DemoSaga.OrderApi\\DemoSaga.OrderService.csproj|solutionrelative:demosaga.orderapi\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A8928F-DFD7-1A15-E015-910164C69461}|DemoSaga.OrderApi\\DemoSaga.OrderService.csproj|d:\\asp\\demosagasolution\\demosaga.orderapi\\migrations\\20261009164154_addoutbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A8928F-DFD7-1A15-E015-910164C69461}|DemoSaga.OrderApi\\DemoSaga.OrderService.csproj|solutionrelative:demosaga.orderapi\\migrations\\20261009164154_addoutbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A8928F-DFD7-1A15-E015-910164C69461}|DemoSaga.OrderApi\\DemoSaga.OrderService.csproj|d:\\asp\\demosagasolution\\demosaga.orderapi\\migrations\\20261009173123_addstatuscolumforordertable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A8928F-DFD7-1A15-E015-910164C69461}|DemoSaga.OrderApi\\DemoSaga.OrderService.csproj|solutionrelative:demosaga.orderapi\\migrations\\20261009173123_addstatuscolumforordertable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A8928F-DFD7-1A15-E015-910164C69461}|DemoSaga.OrderApi\\DemoSaga.OrderService.csproj|d:\\asp\\demosagasolution\\demosaga.orderapi\\model\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A8928F-DFD7-1A15-E015-910164C69461}|DemoSaga.OrderApi\\DemoSaga.OrderService.csproj|solutionrelative:demosaga.orderapi\\model\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A8928F-DFD7-1A15-E015-910164C69461}|DemoSaga.OrderApi\\DemoSaga.OrderService.csproj|d:\\asp\\demosagasolution\\demosaga.orderapi\\database\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A8928F-DFD7-1A15-E015-910164C69461}|DemoSaga.OrderApi\\DemoSaga.OrderService.csproj|solutionrelative:demosaga.orderapi\\database\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A8928F-DFD7-1A15-E015-910164C69461}|DemoSaga.OrderApi\\DemoSaga.OrderService.csproj|d:\\asp\\demosagasolution\\demosaga.orderapi\\entities\\orderoutboxmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A8928F-DFD7-1A15-E015-910164C69461}|DemoSaga.OrderApi\\DemoSaga.OrderService.csproj|solutionrelative:demosaga.orderapi\\entities\\orderoutboxmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A8928F-DFD7-1A15-E015-910164C69461}|DemoSaga.OrderApi\\DemoSaga.OrderService.csproj|d:\\asp\\demosagasolution\\demosaga.orderapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A8928F-DFD7-1A15-E015-910164C69461}|DemoSaga.OrderApi\\DemoSaga.OrderService.csproj|solutionrelative:demosaga.orderapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A8928F-DFD7-1A15-E015-910164C69461}|DemoSaga.OrderApi\\DemoSaga.OrderService.csproj|d:\\asp\\demosagasolution\\demosaga.orderapi\\migrations\\20261004180317_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A8928F-DFD7-1A15-E015-910164C69461}|DemoSaga.OrderApi\\DemoSaga.OrderService.csproj|solutionrelative:demosaga.orderapi\\migrations\\20261004180317_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A8928F-DFD7-1A15-E015-910164C69461}|DemoSaga.OrderApi\\DemoSaga.OrderService.csproj|d:\\asp\\demosagasolution\\demosaga.orderapi\\demosaga.orderservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{25A8928F-DFD7-1A15-E015-910164C69461}|DemoSaga.OrderApi\\DemoSaga.OrderService.csproj|solutionrelative:demosaga.orderapi\\demosaga.orderservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A8928F-DFD7-1A15-E015-910164C69461}|DemoSaga.OrderApi\\DemoSaga.OrderService.csproj|d:\\asp\\demosagasolution\\demosaga.orderapi\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A8928F-DFD7-1A15-E015-910164C69461}|DemoSaga.OrderApi\\DemoSaga.OrderService.csproj|solutionrelative:demosaga.orderapi\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B867E-C0AD-152C-09AE-5FA06F43D5AC}|DemoSaga.ProductApi\\DemoSaga.ProductService.csproj|d:\\asp\\demosagasolution\\demosaga.productapi\\kafka\\productconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B867E-C0AD-152C-09AE-5FA06F43D5AC}|DemoSaga.ProductApi\\DemoSaga.ProductService.csproj|solutionrelative:demosaga.productapi\\kafka\\productconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B867E-C0AD-152C-09AE-5FA06F43D5AC}|DemoSaga.ProductApi\\DemoSaga.ProductService.csproj|d:\\asp\\demosagasolution\\demosaga.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B867E-C0AD-152C-09AE-5FA06F43D5AC}|DemoSaga.ProductApi\\DemoSaga.ProductService.csproj|solutionrelative:demosaga.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A8928F-DFD7-1A15-E015-910164C69461}|DemoSaga.OrderApi\\DemoSaga.OrderService.csproj|d:\\asp\\demosagasolution\\demosaga.orderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A8928F-DFD7-1A15-E015-910164C69461}|DemoSaga.OrderApi\\DemoSaga.OrderService.csproj|solutionrelative:demosaga.orderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9140F1-6678-B1DB-A78F-9680E9D17F42}|DemoSaga.Shared\\DemoSaga.Shared.csproj|d:\\asp\\demosagasolution\\demosaga.shared\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9140F1-6678-B1DB-A78F-9680E9D17F42}|DemoSaga.Shared\\DemoSaga.Shared.csproj|solutionrelative:demosaga.shared\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B867E-C0AD-152C-09AE-5FA06F43D5AC}|DemoSaga.ProductApi\\DemoSaga.ProductService.csproj|d:\\asp\\demosagasolution\\demosaga.productapi\\database\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B867E-C0AD-152C-09AE-5FA06F43D5AC}|DemoSaga.ProductApi\\DemoSaga.ProductService.csproj|solutionrelative:demosaga.productapi\\database\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A8928F-DFD7-1A15-E015-910164C69461}|DemoSaga.OrderApi\\DemoSaga.OrderService.csproj|d:\\asp\\demosagasolution\\demosaga.orderapi\\migrations\\orderdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A8928F-DFD7-1A15-E015-910164C69461}|DemoSaga.OrderApi\\DemoSaga.OrderService.csproj|solutionrelative:demosaga.orderapi\\migrations\\orderdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|D:\\asp\\DemoSagaSolution\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|solutionrelative:docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{677DA024-CA19-E828-B698-109F5E1476EA}|DemoSaga.ApiGateway\\DemoSaga.ApiGateway.csproj|d:\\asp\\demosagasolution\\demosaga.apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{677DA024-CA19-E828-B698-109F5E1476EA}|DemoSaga.ApiGateway\\DemoSaga.ApiGateway.csproj|solutionrelative:demosaga.apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635AC5C2-C963-DFD7-D323-8BE9A6C67546}|DemoSaga.AppHost\\DemoSaga.AppHost.csproj|d:\\asp\\demosagasolution\\demosaga.apphost\\demosaga.apphost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{635AC5C2-C963-DFD7-D323-8BE9A6C67546}|DemoSaga.AppHost\\DemoSaga.AppHost.csproj|solutionrelative:demosaga.apphost\\demosaga.apphost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{677DA024-CA19-E828-B698-109F5E1476EA}|DemoSaga.ApiGateway\\DemoSaga.ApiGateway.csproj|d:\\asp\\demosagasolution\\demosaga.apigateway\\demosaga.apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{677DA024-CA19-E828-B698-109F5E1476EA}|DemoSaga.ApiGateway\\DemoSaga.ApiGateway.csproj|solutionrelative:demosaga.apigateway\\demosaga.apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{677DA024-CA19-E828-B698-109F5E1476EA}|DemoSaga.ApiGateway\\DemoSaga.ApiGateway.csproj|d:\\asp\\demosagasolution\\demosaga.apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{677DA024-CA19-E828-B698-109F5E1476EA}|DemoSaga.ApiGateway\\DemoSaga.ApiGateway.csproj|solutionrelative:demosaga.apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A8928F-DFD7-1A15-E015-910164C69461}|DemoSaga.OrderApi\\DemoSaga.OrderService.csproj|d:\\asp\\demosagasolution\\demosaga.orderapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25A8928F-DFD7-1A15-E015-910164C69461}|DemoSaga.OrderApi\\DemoSaga.OrderService.csproj|solutionrelative:demosaga.orderapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B867E-C0AD-152C-09AE-5FA06F43D5AC}|DemoSaga.ProductApi\\DemoSaga.ProductService.csproj|d:\\asp\\demosagasolution\\demosaga.productapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA2B867E-C0AD-152C-09AE-5FA06F43D5AC}|DemoSaga.ProductApi\\DemoSaga.ProductService.csproj|solutionrelative:demosaga.productapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635AC5C2-C963-DFD7-D323-8BE9A6C67546}|DemoSaga.AppHost\\DemoSaga.AppHost.csproj|d:\\asp\\demosagasolution\\demosaga.apphost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635AC5C2-C963-DFD7-D323-8BE9A6C67546}|DemoSaga.AppHost\\DemoSaga.AppHost.csproj|solutionrelative:demosaga.apphost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9140F1-6678-B1DB-A78F-9680E9D17F42}|DemoSaga.Shared\\DemoSaga.Shared.csproj|d:\\asp\\demosagasolution\\demosaga.shared\\kafkaconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9140F1-6678-B1DB-A78F-9680E9D17F42}|DemoSaga.Shared\\DemoSaga.Shared.csproj|solutionrelative:demosaga.shared\\kafkaconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69198F7F-5B9E-4215-B5A6-0ECF1D9944B3}|DemoSaga.Models\\DemoSaga.Models.csproj|d:\\asp\\demosagasolution\\demosaga.models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69198F7F-5B9E-4215-B5A6-0ECF1D9944B3}|DemoSaga.Models\\DemoSaga.Models.csproj|solutionrelative:demosaga.models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B867E-C0AD-152C-09AE-5FA06F43D5AC}|DemoSaga.ProductApi\\DemoSaga.ProductService.csproj|d:\\asp\\demosagasolution\\demosaga.productapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B867E-C0AD-152C-09AE-5FA06F43D5AC}|DemoSaga.ProductApi\\DemoSaga.ProductService.csproj|solutionrelative:demosaga.productapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A8928F-DFD7-1A15-E015-910164C69461}|DemoSaga.OrderApi\\DemoSaga.OrderService.csproj|d:\\asp\\demosagasolution\\demosaga.orderapi\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A8928F-DFD7-1A15-E015-910164C69461}|DemoSaga.OrderApi\\DemoSaga.OrderService.csproj|solutionrelative:demosaga.orderapi\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B867E-C0AD-152C-09AE-5FA06F43D5AC}|DemoSaga.ProductApi\\DemoSaga.ProductService.csproj|d:\\asp\\demosagasolution\\demosaga.productapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B867E-C0AD-152C-09AE-5FA06F43D5AC}|DemoSaga.ProductApi\\DemoSaga.ProductService.csproj|solutionrelative:demosaga.productapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B867E-C0AD-152C-09AE-5FA06F43D5AC}|DemoSaga.ProductApi\\DemoSaga.ProductService.csproj|d:\\asp\\demosagasolution\\demosaga.productapi\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B867E-C0AD-152C-09AE-5FA06F43D5AC}|DemoSaga.ProductApi\\DemoSaga.ProductService.csproj|solutionrelative:demosaga.productapi\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A8928F-DFD7-1A15-E015-910164C69461}|DemoSaga.OrderApi\\DemoSaga.OrderService.csproj|d:\\asp\\demosagasolution\\demosaga.orderapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25A8928F-DFD7-1A15-E015-910164C69461}|DemoSaga.OrderApi\\DemoSaga.OrderService.csproj|solutionrelative:demosaga.orderapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635AC5C2-C963-DFD7-D323-8BE9A6C67546}|DemoSaga.AppHost\\DemoSaga.AppHost.csproj|d:\\asp\\demosagasolution\\demosaga.apphost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{635AC5C2-C963-DFD7-D323-8BE9A6C67546}|DemoSaga.AppHost\\DemoSaga.AppHost.csproj|solutionrelative:demosaga.apphost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9140F1-6678-B1DB-A78F-9680E9D17F42}|DemoSaga.Shared\\DemoSaga.Shared.csproj|d:\\asp\\demosagasolution\\demosaga.shared\\demosaga.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1B9140F1-6678-B1DB-A78F-9680E9D17F42}|DemoSaga.Shared\\DemoSaga.Shared.csproj|solutionrelative:demosaga.shared\\demosaga.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B867E-C0AD-152C-09AE-5FA06F43D5AC}|DemoSaga.ProductApi\\DemoSaga.ProductService.csproj|d:\\asp\\demosagasolution\\demosaga.productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA2B867E-C0AD-152C-09AE-5FA06F43D5AC}|DemoSaga.ProductApi\\DemoSaga.ProductService.csproj|solutionrelative:demosaga.productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B867E-C0AD-152C-09AE-5FA06F43D5AC}|DemoSaga.ProductApi\\DemoSaga.ProductService.csproj|d:\\asp\\demosagasolution\\demosaga.productapi\\demosaga.productservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA2B867E-C0AD-152C-09AE-5FA06F43D5AC}|DemoSaga.ProductApi\\DemoSaga.ProductService.csproj|solutionrelative:demosaga.productapi\\demosaga.productservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B867E-C0AD-152C-09AE-5FA06F43D5AC}|DemoSaga.ProductApi\\DemoSaga.ProductService.csproj|d:\\asp\\demosagasolution\\demosaga.productapi\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B867E-C0AD-152C-09AE-5FA06F43D5AC}|DemoSaga.ProductApi\\DemoSaga.ProductService.csproj|solutionrelative:demosaga.productapi\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 158,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\DemoSaga.OrderApi\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "DemoSaga.OrderApi\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\DemoSaga.OrderApi\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "DemoSaga.OrderApi\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T16:05:23.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderDbContext.cs",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\DemoSaga.OrderApi\\Database\\OrderDbContext.cs",
+              "RelativeDocumentMoniker": "DemoSaga.OrderApi\\Database\\OrderDbContext.cs",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\DemoSaga.OrderApi\\Database\\OrderDbContext.cs",
+              "RelativeToolTip": "DemoSaga.OrderApi\\Database\\OrderDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T20:10:21.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderConsumer.cs",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\DemoSaga.OrderApi\\Kafka\\OrderConsumer.cs",
+              "RelativeDocumentMoniker": "DemoSaga.OrderApi\\Kafka\\OrderConsumer.cs",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\DemoSaga.OrderApi\\Kafka\\OrderConsumer.cs",
+              "RelativeToolTip": "DemoSaga.OrderApi\\Kafka\\OrderConsumer.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwEoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T17:04:06.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\DemoSaga.OrderApi\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "DemoSaga.OrderApi\\Entities\\Order.cs",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\DemoSaga.OrderApi\\Entities\\Order.cs",
+              "RelativeToolTip": "DemoSaga.OrderApi\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T20:17:04.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20261004180317_Initial.cs",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\DemoSaga.OrderApi\\Migrations\\20261004180317_Initial.cs",
+              "RelativeDocumentMoniker": "DemoSaga.OrderApi\\Migrations\\20261004180317_Initial.cs",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\DemoSaga.OrderApi\\Migrations\\20261004180317_Initial.cs",
+              "RelativeToolTip": "DemoSaga.OrderApi\\Migrations\\20261004180317_Initial.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T17:11:42.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductOutBoxMessage.cs",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\DemoSaga.ProductApi\\Entities\\ProductOutBoxMessage.cs",
+              "RelativeDocumentMoniker": "DemoSaga.ProductApi\\Entities\\ProductOutBoxMessage.cs",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\DemoSaga.ProductApi\\Entities\\ProductOutBoxMessage.cs",
+              "RelativeToolTip": "DemoSaga.ProductApi\\Entities\\ProductOutBoxMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T16:37:35.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductOutboxPulisher.cs",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\DemoSaga.ProductApi\\Kafka\\ProductOutboxPulisher.cs",
+              "RelativeDocumentMoniker": "DemoSaga.ProductApi\\Kafka\\ProductOutboxPulisher.cs",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\DemoSaga.ProductApi\\Kafka\\ProductOutboxPulisher.cs",
+              "RelativeToolTip": "DemoSaga.ProductApi\\Kafka\\ProductOutboxPulisher.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T17:12:37.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderOutboxPulisher.cs",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\DemoSaga.OrderApi\\Kafka\\OrderOutboxPulisher.cs",
+              "RelativeDocumentMoniker": "DemoSaga.OrderApi\\Kafka\\OrderOutboxPulisher.cs",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\DemoSaga.OrderApi\\Kafka\\OrderOutboxPulisher.cs",
+              "RelativeToolTip": "DemoSaga.OrderApi\\Kafka\\OrderOutboxPulisher.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T17:01:23.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20261009173123_AddStatusColumForOrderTable.cs",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\DemoSaga.OrderApi\\Migrations\\20261009173123_AddStatusColumForOrderTable.cs",
+              "RelativeDocumentMoniker": "DemoSaga.OrderApi\\Migrations\\20261009173123_AddStatusColumForOrderTable.cs",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\DemoSaga.OrderApi\\Migrations\\20261009173123_AddStatusColumForOrderTable.cs",
+              "RelativeToolTip": "DemoSaga.OrderApi\\Migrations\\20261009173123_AddStatusColumForOrderTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T17:31:28.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20261009173123_AddStatusColumForOrderTable.Designer.cs",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\DemoSaga.OrderApi\\Migrations\\20261009173123_AddStatusColumForOrderTable.Designer.cs",
+              "RelativeDocumentMoniker": "DemoSaga.OrderApi\\Migrations\\20261009173123_AddStatusColumForOrderTable.Designer.cs",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\DemoSaga.OrderApi\\Migrations\\20261009173123_AddStatusColumForOrderTable.Designer.cs",
+              "RelativeToolTip": "DemoSaga.OrderApi\\Migrations\\20261009173123_AddStatusColumForOrderTable.Designer.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T17:31:34.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20261009164154_AddOutbox.cs",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\DemoSaga.OrderApi\\Migrations\\20261009164154_AddOutbox.cs",
+              "RelativeDocumentMoniker": "DemoSaga.OrderApi\\Migrations\\20261009164154_AddOutbox.cs",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\DemoSaga.OrderApi\\Migrations\\20261009164154_AddOutbox.cs",
+              "RelativeToolTip": "DemoSaga.OrderApi\\Migrations\\20261009164154_AddOutbox.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T17:31:49.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderOutBoxMessage.cs",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\DemoSaga.OrderApi\\Entities\\OrderOutBoxMessage.cs",
+              "RelativeDocumentMoniker": "DemoSaga.OrderApi\\Entities\\OrderOutBoxMessage.cs",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\DemoSaga.OrderApi\\Entities\\OrderOutBoxMessage.cs",
+              "RelativeToolTip": "DemoSaga.OrderApi\\Entities\\OrderOutBoxMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T16:36:39.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\DemoSaga.OrderApi\\Model\\OrderModel.cs",
+              "RelativeDocumentMoniker": "DemoSaga.OrderApi\\Model\\OrderModel.cs",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\DemoSaga.OrderApi\\Model\\OrderModel.cs",
+              "RelativeToolTip": "DemoSaga.OrderApi\\Model\\OrderModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T21:20:34.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DemoSaga.OrderService.csproj",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\DemoSaga.OrderApi\\DemoSaga.OrderService.csproj",
+              "RelativeDocumentMoniker": "DemoSaga.OrderApi\\DemoSaga.OrderService.csproj",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\DemoSaga.OrderApi\\DemoSaga.OrderService.csproj",
+              "RelativeToolTip": "DemoSaga.OrderApi\\DemoSaga.OrderService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-28T20:14:28.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\DemoSaga.OrderApi\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "DemoSaga.OrderApi\\Services\\OrderService.cs",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\DemoSaga.OrderApi\\Services\\OrderService.cs",
+              "RelativeToolTip": "DemoSaga.OrderApi\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T15:50:22.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductConsumer.cs",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\DemoSaga.ProductApi\\Kafka\\ProductConsumer.cs",
+              "RelativeDocumentMoniker": "DemoSaga.ProductApi\\Kafka\\ProductConsumer.cs",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\DemoSaga.ProductApi\\Kafka\\ProductConsumer.cs",
+              "RelativeToolTip": "DemoSaga.ProductApi\\Kafka\\ProductConsumer.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T16:39:44.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\DemoSaga.OrderApi\\Program.cs",
+              "RelativeDocumentMoniker": "DemoSaga.OrderApi\\Program.cs",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\DemoSaga.OrderApi\\Program.cs",
+              "RelativeToolTip": "DemoSaga.OrderApi\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA1wBoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T20:25:18.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\DemoSaga.ProductApi\\Program.cs",
+              "RelativeDocumentMoniker": "DemoSaga.ProductApi\\Program.cs",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\DemoSaga.ProductApi\\Program.cs",
+              "RelativeToolTip": "DemoSaga.ProductApi\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB4AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T20:28:17.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "KafkaProducer.cs",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\DemoSaga.Shared\\KafkaProducer.cs",
+              "RelativeDocumentMoniker": "DemoSaga.Shared\\KafkaProducer.cs",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\DemoSaga.Shared\\KafkaProducer.cs",
+              "RelativeToolTip": "DemoSaga.Shared\\KafkaProducer.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCMAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T16:19:41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwDgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-09-28T18:05:37.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\DemoSaga.ApiGateway\\ocelot.json",
+              "RelativeDocumentMoniker": "DemoSaga.ApiGateway\\ocelot.json",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\DemoSaga.ApiGateway\\ocelot.json",
+              "RelativeToolTip": "DemoSaga.ApiGateway\\ocelot.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-04T17:04:03.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AppHost.cs",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\DemoSaga.AppHost\\AppHost.cs",
+              "RelativeDocumentMoniker": "DemoSaga.AppHost\\AppHost.cs",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\DemoSaga.AppHost\\AppHost.cs",
+              "RelativeToolTip": "DemoSaga.AppHost\\AppHost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:21:22.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\DemoSaga.ProductApi\\Database\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "DemoSaga.ProductApi\\Database\\ProductDbContext.cs",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\DemoSaga.ProductApi\\Database\\ProductDbContext.cs",
+              "RelativeToolTip": "DemoSaga.ProductApi\\Database\\ProductDbContext.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T20:21:18.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\DemoSaga.ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "DemoSaga.ApiGateway\\Program.cs",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\DemoSaga.ApiGateway\\Program.cs",
+              "RelativeToolTip": "DemoSaga.ApiGateway\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T17:01:11.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\DemoSaga.OrderApi\\Migrations\\OrderDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DemoSaga.OrderApi\\Migrations\\OrderDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\DemoSaga.OrderApi\\Migrations\\OrderDbContextModelSnapshot.cs",
+              "RelativeToolTip": "DemoSaga.OrderApi\\Migrations\\OrderDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T17:11:49.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DemoSaga.ApiGateway.csproj",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\DemoSaga.ApiGateway\\DemoSaga.ApiGateway.csproj",
+              "RelativeDocumentMoniker": "DemoSaga.ApiGateway\\DemoSaga.ApiGateway.csproj",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\DemoSaga.ApiGateway\\DemoSaga.ApiGateway.csproj",
+              "RelativeToolTip": "DemoSaga.ApiGateway\\DemoSaga.ApiGateway.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-08T16:46:49.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DemoSaga.AppHost.csproj",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\DemoSaga.AppHost\\DemoSaga.AppHost.csproj",
+              "RelativeDocumentMoniker": "DemoSaga.AppHost\\DemoSaga.AppHost.csproj",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\DemoSaga.AppHost\\DemoSaga.AppHost.csproj",
+              "RelativeToolTip": "DemoSaga.AppHost\\DemoSaga.AppHost.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-08T16:47:58.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\DemoSaga.ProductApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DemoSaga.ProductApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\DemoSaga.ProductApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DemoSaga.ProductApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-04T17:17:17.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\DemoSaga.OrderApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DemoSaga.OrderApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\DemoSaga.OrderApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DemoSaga.OrderApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-04T17:16:47.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\DemoSaga.ProductApi\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "DemoSaga.ProductApi\\Services\\ProductService.cs",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\DemoSaga.ProductApi\\Services\\ProductService.cs",
+              "RelativeToolTip": "DemoSaga.ProductApi\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T16:14:08.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "KafkaConsumer.cs",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\DemoSaga.Shared\\KafkaConsumer.cs",
+              "RelativeDocumentMoniker": "DemoSaga.Shared\\KafkaConsumer.cs",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\DemoSaga.Shared\\KafkaConsumer.cs",
+              "RelativeToolTip": "DemoSaga.Shared\\KafkaConsumer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T16:19:50.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\DemoSaga.OrderApi\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "DemoSaga.OrderApi\\Services\\IOrderService.cs",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\DemoSaga.OrderApi\\Services\\IOrderService.cs",
+              "RelativeToolTip": "DemoSaga.OrderApi\\Services\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T15:48:02.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\DemoSaga.Models\\OrderModel.cs",
+              "RelativeDocumentMoniker": "DemoSaga.Models\\OrderModel.cs",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\DemoSaga.Models\\OrderModel.cs",
+              "RelativeToolTip": "DemoSaga.Models\\OrderModel.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T17:29:33.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\DemoSaga.ProductApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "DemoSaga.ProductApi\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\DemoSaga.ProductApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "DemoSaga.ProductApi\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T16:16:14.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\DemoSaga.ProductApi\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "DemoSaga.ProductApi\\Services\\IProductService.cs",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\DemoSaga.ProductApi\\Services\\IProductService.cs",
+              "RelativeToolTip": "DemoSaga.ProductApi\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T16:10:39.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\DemoSaga.AppHost\\appsettings.json",
+              "RelativeDocumentMoniker": "DemoSaga.AppHost\\appsettings.json",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\DemoSaga.AppHost\\appsettings.json",
+              "RelativeToolTip": "DemoSaga.AppHost\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-04T17:54:48.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\DemoSaga.OrderApi\\appsettings.json",
+              "RelativeDocumentMoniker": "DemoSaga.OrderApi\\appsettings.json",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\DemoSaga.OrderApi\\appsettings.json",
+              "RelativeToolTip": "DemoSaga.OrderApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-28T20:18:21.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DemoSaga.Shared.csproj",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\DemoSaga.Shared\\DemoSaga.Shared.csproj",
+              "RelativeDocumentMoniker": "DemoSaga.Shared\\DemoSaga.Shared.csproj",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\DemoSaga.Shared\\DemoSaga.Shared.csproj",
+              "RelativeToolTip": "DemoSaga.Shared\\DemoSaga.Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-28T20:11:20.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\DemoSaga.ProductApi\\appsettings.json",
+              "RelativeDocumentMoniker": "DemoSaga.ProductApi\\appsettings.json",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\DemoSaga.ProductApi\\appsettings.json",
+              "RelativeToolTip": "DemoSaga.ProductApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-28T20:25:05.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DemoSaga.ProductService.csproj",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\DemoSaga.ProductApi\\DemoSaga.ProductService.csproj",
+              "RelativeDocumentMoniker": "DemoSaga.ProductApi\\DemoSaga.ProductService.csproj",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\DemoSaga.ProductApi\\DemoSaga.ProductService.csproj",
+              "RelativeToolTip": "DemoSaga.ProductApi\\DemoSaga.ProductService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-28T20:20:18.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\asp\\DemoSagaSolution\\DemoSaga.ProductApi\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "DemoSaga.ProductApi\\Entities\\Product.cs",
+              "ToolTip": "D:\\asp\\DemoSagaSolution\\DemoSaga.ProductApi\\Entities\\Product.cs",
+              "RelativeToolTip": "DemoSaga.ProductApi\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T20:20:40.323Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 242,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

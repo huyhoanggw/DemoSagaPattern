@@ -1,0 +1,17 @@
+<Project Sdk="Aspire.AppHost.Sdk/13.2.4">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UserSecretsId>fa4590ae-bdc8-41ff-8f96-52c76d281d0b</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DemoSaga.ApiGateway\DemoSaga.ApiGateway.csproj" />
+    <ProjectReference Include="..\DemoSaga.OrderApi\DemoSaga.OrderService.csproj" />
+    <ProjectReference Include="..\DemoSaga.ProductApi\DemoSaga.ProductService.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,6 @@
+@DemoSaga.OrderApi_HostAddress = http://localhost:5018
+
+GET {{DemoSaga.OrderApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="docker-compose.yml" />
+  </Folder>
+  <Project Path="DemoSaga.ApiGateway/DemoSaga.ApiGateway.csproj" />
+  <Project Path="DemoSaga.AppHost/DemoSaga.AppHost.csproj" />
+  <Project Path="DemoSaga.Models/DemoSaga.Models.csproj" Id="69198f7f-5b9e-4215-b5a6-0ecf1d9944b3" />
+  <Project Path="DemoSaga.OrderApi/DemoSaga.OrderService.csproj" />
+  <Project Path="DemoSaga.ProductApi/DemoSaga.ProductService.csproj" />
+  <Project Path="DemoSaga.Shared/DemoSaga.Shared.csproj" />
+</Solution>

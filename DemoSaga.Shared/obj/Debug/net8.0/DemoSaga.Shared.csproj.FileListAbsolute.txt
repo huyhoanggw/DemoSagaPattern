@@ -1,0 +1,14 @@
+D:\asp\DemoSagaSolution\DemoSaga.Shared\bin\Debug\net8.0\DemoSaga.Shared.deps.json
+D:\asp\DemoSagaSolution\DemoSaga.Shared\bin\Debug\net8.0\DemoSaga.Shared.runtimeconfig.json
+D:\asp\DemoSagaSolution\DemoSaga.Shared\bin\Debug\net8.0\DemoSaga.Shared.dll
+D:\asp\DemoSagaSolution\DemoSaga.Shared\bin\Debug\net8.0\DemoSaga.Shared.pdb
+D:\asp\DemoSagaSolution\DemoSaga.Shared\obj\Debug\net8.0\DemoSaga.Shared.csproj.AssemblyReference.cache
+D:\asp\DemoSagaSolution\DemoSaga.Shared\obj\Debug\net8.0\DemoSaga.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp\DemoSagaSolution\DemoSaga.Shared\obj\Debug\net8.0\DemoSaga.Shared.AssemblyInfoInputs.cache
+D:\asp\DemoSagaSolution\DemoSaga.Shared\obj\Debug\net8.0\DemoSaga.Shared.AssemblyInfo.cs
+D:\asp\DemoSagaSolution\DemoSaga.Shared\obj\Debug\net8.0\DemoSaga.Shared.csproj.CoreCompileInputs.cache
+D:\asp\DemoSagaSolution\DemoSaga.Shared\obj\Debug\net8.0\DemoSaga.Shared.dll
+D:\asp\DemoSagaSolution\DemoSaga.Shared\obj\Debug\net8.0\refint\DemoSaga.Shared.dll
+D:\asp\DemoSagaSolution\DemoSaga.Shared\obj\Debug\net8.0\DemoSaga.Shared.pdb
+D:\asp\DemoSagaSolution\DemoSaga.Shared\obj\Debug\net8.0\DemoSaga.Shared.genruntimeconfig.cache
+D:\asp\DemoSagaSolution\DemoSaga.Shared\obj\Debug\net8.0\ref\DemoSaga.Shared.dll

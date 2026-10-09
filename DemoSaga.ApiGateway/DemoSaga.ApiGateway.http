@@ -1,0 +1,6 @@
+@DemoSaga.ApiGateway_HostAddress = http://localhost:5156
+
+GET {{DemoSaga.ApiGateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
