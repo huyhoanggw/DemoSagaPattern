@@ -80,6 +80,7 @@ namespace DemoSaga.ProductService.Kafka
                     Payload = JsonConvert.SerializeObject(order),
                     CreatedAtUtc = DateTime.UtcNow
                 });
+                await _dbcontext.SaveChangesAsync(cancellationToken);
                 return false;
             }
         }
