@@ -1,0 +1,15 @@
+# Visual Studio cache & user settings
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+[Bb]in/
+[Oo]bj/
+[Lll]og/
+[Ll]ogs/
+
+# NuGet Packages
+*.nupkg
+packages/
